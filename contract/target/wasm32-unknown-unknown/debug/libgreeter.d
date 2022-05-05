@@ -1,0 +1,1 @@
+/Users/doriankinoocrutcher/Documents/NEAR/collections-error/contract/target/wasm32-unknown-unknown/debug/libgreeter.rlib: /Users/doriankinoocrutcher/Documents/NEAR/collections-error/contract/src/lib.rs
